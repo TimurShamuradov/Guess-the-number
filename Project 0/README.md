@@ -1,55 +1,57 @@
-# Проект 0. Угадай число
+# Project 0. Guess the number
 
-## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+## Summary
+[1. Project Description](README.md#project-description)
+[2. What problem we are solving?](README.md#what-problem-we-solving)
+[3. Brief Information on Data](README.md#brief-information-on-data)
+[4. Project Stages](README.md#project-stages)
+[5. Results](README.md#results)
+[6. Conclusion](README.md#conclusion)
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+### Project Description
+Guess the number under less then 20 tries.
 
-:arrow_up:[к оглавлению](_)
-
-
-### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
-
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**     
-Учимся писать хороший код на python
+:arrow_up:[back to Summary](_)
 
 
-### Краткая информация о данных
-....
-  
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+### What problem we solving?
+We need to write a programm that guess the number with the least possible tries
+
+**Competition Conditions:**
+- The computer generates a random integer between 0 and 100, and we need to guess it. By "guess," we mean "write a program that guesses the number."
+- The algorithm takes into account whether the random number is greater or smaller than the one we are looking for.
+- The algorithm has to guess the number under 20 tries
+
+**Quality Metric**
+Results are evaluated based on the average number of attempts in 1000 repetitions.
+
+**What we practice**
+Learn to write a good Python code
 
 
-### Этапы работы над проектом  
+### Brief Information on Data
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[back to Summary](.README.md#Summary)
 
 
-### Результаты:  
+### Project Stages
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[back to Summary](.README.md#Summary)
 
 
-### Выводы:  
-....
+### Results:
+The algorithm solves the problem on average in 8 tries
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[back to Summary](.README.md#Summary)
 
 
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+### Conclusion:
+We we able to accomplish the task and solve the 'guees' of a number under 20 tries.
+The algorithm solves the problem on average in 8 tries
+
+:arrow_up:[back to Summary](.README.md#Summary)
+
+
+If you find the information in this project interesting or useful, I would be very grateful if you could star the repository and my profile ⭐️⭐️⭐️!
