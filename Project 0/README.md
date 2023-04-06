@@ -27,10 +27,14 @@ We need to write a programm that guess the number with the least possible tries
 - The algorithm takes into account whether the random number is greater or smaller than the one we are looking for.
 - The algorithm has to guess the number under 20 tries
 
+
 **Quality Metric**
+
 Results are evaluated based on the average number of attempts in 1000 repetitions.
 
+
 **What we practice**
+
 Learn to write a good Python code
 
 
