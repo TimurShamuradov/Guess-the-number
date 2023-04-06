@@ -2,16 +2,21 @@
 
 ## Summary
 [1. Project Description](README.md#project-description)
+
 [2. What problem we are solving?](README.md#what-problem-we-solving)
+
 [3. Brief Information on Data](README.md#brief-information-on-data)
+
 [4. Project Stages](README.md#project-stages)
+
 [5. Results](README.md#results)
+
 [6. Conclusion](README.md#conclusion)
 
 ### Project Description
 Guess the number under less then 20 tries.
 
-:arrow_up:[back to Summary](_)
+:arrow_up:[back to Summary](README.md#summary)
 
 
 ### What problem we solving?
@@ -32,26 +37,26 @@ Learn to write a good Python code
 ### Brief Information on Data
 ....
 
-:arrow_up:[back to Summary](.README.md#Summary)
+:arrow_up:[back to Summary](README.md#summary)
 
 
 ### Project Stages
 ....
 
-:arrow_up:[back to Summary](.README.md#Summary)
+:arrow_up:[back to Summary](README.md#summary)
 
 
 ### Results:
 The algorithm solves the problem on average in 8 tries
 
-:arrow_up:[back to Summary](.README.md#Summary)
+:arrow_up:[back to Summary](README.md#summary)
 
 
 ### Conclusion:
 We we able to accomplish the task and solve the 'guees' of a number under 20 tries.
 The algorithm solves the problem on average in 8 tries
 
-:arrow_up:[back to Summary](.README.md#Summary)
+:arrow_up:[back to Summary](README.md#summary)
 
 
 If you find the information in this project interesting or useful, I would be very grateful if you could star the repository and my profile ⭐️⭐️⭐️!
